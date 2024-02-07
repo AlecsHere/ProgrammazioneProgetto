@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/alecs/prog'
+g++ src/* -g -Wall -lncurses -Iincludes -o main
+make: Leaving directory '/home/alecs/prog'
+ 
